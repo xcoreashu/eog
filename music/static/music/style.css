@@ -1,0 +1,16 @@
+body{
+	background: white url("images/background.jpg");
+}
+
+.navbar{
+	border-radius:0;
+
+}
+
+
+.navbar-brand{
+	font-family:'Lobster', cursive;
+}
+.blue{
+	color:0000ff ;
+}
